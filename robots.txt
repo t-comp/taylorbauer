@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/t-comp/sitemap.xml
+Sitemap: https://github.com/t-comp/taylorbauer/sitemap.xml
